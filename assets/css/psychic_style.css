@@ -1,0 +1,42 @@
+* {
+	background-color: #339966;
+}
+
+.jumbotron{
+	background-color: #339966;
+}
+
+.psychic_pic {
+	height: 250px;
+}
+
+h1 {
+	font-family: 'Titan One', cursive;
+	font-size: 78px;
+	font-weight: bolder;
+	margin-bottom: 75px;
+}
+
+h2 {
+	color: white;
+	font-family: 'Titan One', cursive;
+	font-size: 36px;
+	font-weight: bold;
+	margin-top: 0;
+}
+
+h3 {
+	color: white;
+	font-family: 'Titan One', cursive;
+	font-size: 30px;
+	font-weight: bold;
+	margin-top: 0;
+}
+
+.btn.btn-default {
+	color: white;
+	font-family: 'Titan One', cursive;
+	font-size: 20px;
+	margin-top: 0;
+	background-color: #0099ff;
+}
